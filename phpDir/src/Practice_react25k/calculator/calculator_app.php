@@ -29,6 +29,7 @@
             width: 100px;
             margin: 10px;
             font-size: 16px;
+
         }
 
         input[type="submit"] {
